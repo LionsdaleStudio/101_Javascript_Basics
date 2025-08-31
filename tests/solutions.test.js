@@ -1,4 +1,4 @@
-const s = require('../src/solutions');
+const s = require('../src/Solutions');
 
 // ===============
 // MATHEMATICAL
