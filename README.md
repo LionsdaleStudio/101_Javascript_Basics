@@ -14,11 +14,11 @@ A `tests/solutions.test.js` automatikusan ellenőrzi a megoldásokat.
 
 1. Telepítsd a csomagokat:
     https://nodejs.org/en
-    a; A fenti weboldalról telepítsd a legfrissebb Node verziót.
-    b; Nyisd meg a github repositoryt a Visual Studio Code-ban (101_Javascript_Basics) és nyiss egy új terminalt.
-    c; Futtasd az **npm install** parancsot.
-2. A telepítés után megjelenik a node_modules mappa a tests, src, mappa mellett a gyökérkönyvtárban.
-3. A teszteket a terminálban az **npm test** paranccsal tudod futtatni.
+2. A fenti weboldalról telepítsd a legfrissebb Node verziót.
+3. Nyisd meg a github repositoryt a Visual Studio Code-ban (101_Javascript_Basics) és nyiss egy új terminalt.
+4. Futtasd az **npm install** parancsot.
+5. A telepítés után megjelenik a node_modules mappa a tests, src, mappa mellett a gyökérkönyvtárban.
+6. A teszteket a terminálban az **npm test** paranccsal tudod futtatni.
 
 
 🧮 Matematikai feladatok
